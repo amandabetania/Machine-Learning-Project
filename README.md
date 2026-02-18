@@ -21,6 +21,9 @@ The focus is on learning-by-doing, starting from fundamental ideas and gradually
 | No | Project Name | Description |
 |----|-------------|-------------|
 | 1️⃣ | Movie Recommendation System | A content-based recommendation system that suggests movies based on similarity features and user preferences |
+| 2️⃣ | Medicine Label OCR | An OCR-based system that extracts text from medicine labels using image preprocessing and optical character recognition |
+| 3️⃣ | Flower Image Classification (SVM) | An image classification model that classifies flower images using Support Vector Machine (SVM) |
+| 4️⃣ | Image Classification Model Comparison | A comparative study analyzing the performance of KNN, Naive Bayes, SVM, and Random Forest for image classification tasks |
 
 ---
 
