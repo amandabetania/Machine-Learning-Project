@@ -1,5 +1,6 @@
 dataset/
 model/
+Not-Fix/
 
 *.pkl
 *.csv
