@@ -25,6 +25,7 @@ The focus is on learning-by-doing, starting from fundamental ideas and gradually
 | 3️⃣ | Flower Image Classification (SVM) | An image classification model that classifies flower images using Support Vector Machine (SVM) |
 | 4️⃣ | Image Classification Model Comparison | A comparative study analyzing the performance of KNN, Naive Bayes, SVM, and Random Forest for image classification tasks |
 | 5️⃣ | Speech Emotion Recognition | A comparative machine learning project for classifying emotions from voice recordings using MLP, KNN, Naive Bayes, SVM, and Random Forest |
+| 6️⃣ | Heart Disease Classification (Heart Statlog) | A binary classification project using the Heart Statlog dataset to predict whether a patient has heart disease using the K-Nearest Neighbors (KNN) algorithm |
 
 ---
 
