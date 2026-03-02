@@ -26,6 +26,7 @@ The focus is on learning-by-doing, starting from fundamental ideas and gradually
 | 4️⃣ | Image Classification Model Comparison | A comparative study analyzing the performance of KNN, Naive Bayes, SVM, and Random Forest for image classification tasks |
 | 5️⃣ | Speech Emotion Recognition | A comparative machine learning project for classifying emotions from voice recordings using MLP, KNN, Naive Bayes, SVM, and Random Forest |
 | 6️⃣ | Heart Disease Classification (Heart Statlog) | A binary classification project using the Heart Statlog dataset to predict whether a patient has heart disease using the K-Nearest Neighbors (KNN) algorithm |
+| 7️⃣ | Zombie Object Detection | A computer vision project that detects and localizes zombies in images using object detection techniques and bounding box prediction |
 
 ---
 
